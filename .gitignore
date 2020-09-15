@@ -1,0 +1,17 @@
+# Directories
+/node_modules
+/static
+/coverage
+/dist
+/build
+
+# Files
+*.log
+.DS_Store
+.happypack
+.tern-port
+
+# Editor
+.idea/
+.vscode/
+.zae/
